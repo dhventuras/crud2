@@ -1,0 +1,59 @@
+﻿body {
+    background: url(/img/1.jpg)no-repeat center center fixed;
+    background-size: cover; /*Css padrão*/
+    -webkit-background-size: cover; /*Css safari e chrome*/
+    -moz-background-size: cover; /*Css firefox*/
+    -ms-background-size: cover; /*Css IE não use mer#^@%#*/
+    -o-background-size: cover; /*Css Opera*/
+}
+
+.cadastro {
+    background: url(/img/2.jpg)no-repeat center center fixed;
+    background-size: cover; /*Css padrão*/
+    -webkit-background-size: cover; /*Css safari e chrome*/
+    -moz-background-size: cover; /*Css firefox*/
+    -ms-background-size: cover; /*Css IE não use mer#^@%#*/
+    -o-background-size: cover; /*Css Opera*/
+}
+
+h1 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+h4{
+    font-family:Arial;
+    font:bolder;
+}
+
+.ltx1 {
+    margin-top: 8px;
+}
+
+.aocentro {
+    margin-top: 24%;
+    text-align: center;
+}
+
+.aocentro2 {
+    margin-top: 18%;
+    text-align: center;
+}
+
+.btncentro {
+    text-align: center;
+}
+
+.botão1 {
+    background: url(/img/3.png)no-repeat center center;
+}
+
+.botão2 {
+    background: url(/img/4.png)no-repeat center center;
+}
+
+.botão3 {
+    background: url(/img/5.png)no-repeat center center;
+}
